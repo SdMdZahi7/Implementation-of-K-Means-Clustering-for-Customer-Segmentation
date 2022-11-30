@@ -64,11 +64,11 @@ plt.title("Customer Segments")
 ~~~
 
 # OUTPUT:
-![image](https://user-images.githubusercontent.com/941![image](https://user-images.githubusercontent.com/94187572/204821046-3a8f85a1-000d-4d24-8080-13207723500b.png)87572/204820886-f568d42f-119e-424c-ab0f-8ee48bbdc9bd.png)
+![image](https://user-images.githubusercontent.com/94187572/204821466-836752b9-f778-4be4-a1a1-dd350a973b16.png)
 ![image](https://user-images.githubusercontent.com/94187572/204820985-7d71ffa3-00d8-4ff1-9381-80452e020b62.png)
 ![image](https://user-images.githubusercontent.com/94187572/204821122-9cf747bf-93e2-4e9e-9ac1-98035f565129.png)
 ![image](https://user-images.githubusercontent.com/94187572/204821182-92bc3554-31ee-4444-ba3f-eccaa10c2875.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/94187572/204821511-9a02adb5-ca12-4af2-b912-8aec10fac2e4.png)
 
 
 # RESULT:
